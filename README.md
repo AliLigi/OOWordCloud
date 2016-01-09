@@ -1,5 +1,7 @@
 # OOWordCloud
-**Alina Danci 
+ 
+GIT LINK
+https://github.com/AliLigi/OOWordCloud
 #####A Java Word Cloud API
 
 ## About 
